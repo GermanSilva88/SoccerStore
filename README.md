@@ -8,6 +8,7 @@ Carrito de compras: Añade productos a tu carrito y procede al pago de manera f�
 Contacto
 Para preguntas o comentarios, puedes contactarme en germanakdsilva@gmail.com.
 
-German Daniel Silva
+German Daniel Silva 
+DNI 33427673
 Comision TUDAI Quequén
 2262500958
