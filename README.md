@@ -5,6 +5,9 @@ Características
 Catálogo de productos: Navega por una variedad de productos de diferentes equipos y marcas.
 Carrito de compras: Añade productos a tu carrito y procede al pago de manera fácil y rápida.
 
+Ver en StackBlitz
+Puedes ver y editar este proyecto en StackBlitz https://stackblitz.com/~/github.com/GermanSilva88/SoccerStore.
+
 Contacto
 Para preguntas o comentarios, puedes contactarme en germanakdsilva@gmail.com.
 
