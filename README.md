@@ -6,4 +6,8 @@ Catálogo de productos: Navega por una variedad de productos de diferentes equip
 Carrito de compras: Añade productos a tu carrito y procede al pago de manera fácil y rápida.
 
 Contacto
-Para preguntas o comentarios, puedes contactarme en germanakdsilval@gmail.com.
+Para preguntas o comentarios, puedes contactarme en germanakdsilva@gmail.com.
+
+German Daniel Silva
+Comision TUDAI Quequén
+2262500958
