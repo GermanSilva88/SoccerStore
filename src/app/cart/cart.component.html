@@ -1,0 +1,11 @@
+<h3>Carrito de Compras</h3>
+<ul>
+    @for (soccerwear of cartList$ |async; track soccerwear.id ){
+        <li>
+            {{soccerwear.equipo}}: {{soccerwear.quantity}}
+        </li>
+
+    }
+   
+</ul>
+
