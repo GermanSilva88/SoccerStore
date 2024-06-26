@@ -1,27 +1,9 @@
-# Shop
+SoccerStore
+SoccerStore es una aplicación web diseñada para la venta de indumentaria de fútbol. Ofrece una amplia gama de productos como camisetas, pantalones, zapatos y accesorios para los amantes del fútbol.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+Características
+Catálogo de productos: Navega por una variedad de productos de diferentes equipos y marcas.
+Carrito de compras: Añade productos a tu carrito y procede al pago de manera fácil y rápida.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Contacto
+Para preguntas o comentarios, puedes contactarme en germanakdsilval@gmail.com.
